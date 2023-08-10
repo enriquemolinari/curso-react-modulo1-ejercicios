@@ -17,3 +17,13 @@ export default function Curso({ nombreCurso, estudiantes }) {
     </>
   );
 }
+
+{
+  /* <Curso
+nombreCurso="Fundamentos de React"
+estudiantes={[
+  { id: 1, nombre: "jorge" },
+  { id: 2, nombre: "santiago" },
+]}
+/> */
+}

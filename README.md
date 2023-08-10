@@ -1,5 +1,7 @@
 # Curso Fundamentos en React - Ejercicios
 
+Ejercicios resueltos del curso de Fundamentos en React.
+
 # Installation
 
 - Clone this repository

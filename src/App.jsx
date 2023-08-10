@@ -1,10 +1,10 @@
 import "./App.css";
-import Yo from "./clase3/Yo";
+import Layout from "./layout/Layout";
 
 function App() {
   return (
     <>
-      <Yo />
+      <Layout />
     </>
   );
 }
