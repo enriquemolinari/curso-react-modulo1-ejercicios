@@ -1,10 +1,10 @@
 import "./App.css";
-import Layout from "./layout/Layout";
+import PruebasEstado from "./clase8/PruebasEstado";
 
 function App() {
   return (
     <>
-      <Layout />
+      <PruebasEstado />
     </>
   );
 }

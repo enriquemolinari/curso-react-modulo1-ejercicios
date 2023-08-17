@@ -1,0 +1,13 @@
+form {
+  overflow: hidden;
+}
+input,
+label,
+textarea,
+button {
+  float: left;
+  clear: both;
+}
+p {
+  margin-top: 30%;
+}
